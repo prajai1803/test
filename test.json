@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zaajira",
+      "sha256_cert_fingerprints":
+        ["DA:B9:D0:41:A7:51:00:A8:53:04:0E:9D:FE:C6:E1:C9:4C:29:97:A9:7B:D6:1E:8C:EE:C1:67:FF:90:F8:8B:16"]
+    }
+  }
+]
